@@ -40,6 +40,11 @@ footer {
 
 }
 
+header a {
+    color: var(--second-txt);
+    text-decoration: none;
+}
+
 header img {
     color: var(--hero-logo-txt);
     font-size: 24px;
